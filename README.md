@@ -1,3 +1,5 @@
+`docker network create net`
+
 Add those variables to the other projets
 
 ```yaml
